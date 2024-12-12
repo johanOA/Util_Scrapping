@@ -1,0 +1,10 @@
+README.md
+setup.py
+Log/__init__.py
+Log/log_utils.py
+Util_Scrapping.egg-info/PKG-INFO
+Util_Scrapping.egg-info/SOURCES.txt
+Util_Scrapping.egg-info/dependency_links.txt
+Util_Scrapping.egg-info/not-zip-safe
+Util_Scrapping.egg-info/requires.txt
+Util_Scrapping.egg-info/top_level.txt
