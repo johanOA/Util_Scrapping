@@ -1,0 +1,1 @@
+pip install git+https://github.com/johanOA/Util_Scrapping.git
