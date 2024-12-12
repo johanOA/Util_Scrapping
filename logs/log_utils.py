@@ -1,6 +1,5 @@
 from os import path, makedirs, remove
 import logging
-
 """
     Args:
         log_file (str): Ruta al archivo de log.
